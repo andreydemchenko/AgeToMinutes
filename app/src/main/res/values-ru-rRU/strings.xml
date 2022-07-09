@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="calculate_your">РАСЧИТАЙ СВОЙ</string>
+    <string name="age">ВОЗРАСТ</string>
+    <string name="in_minutes">В МИНУТАХ</string>
+    <string name="select_date">Выбери дату</string>
+    <string name="selected_date">Выбранная дата</string>
+    <string name="age_in_minutes">Возраст в минутах</string>
+</resources>
